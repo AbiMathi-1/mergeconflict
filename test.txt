@@ -1,1 +1,2 @@
-city:Bglre
+city:coimbatore
+country:India
